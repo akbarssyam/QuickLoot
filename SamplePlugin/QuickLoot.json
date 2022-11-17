@@ -5,8 +5,13 @@
     "Description": "Various commands to need, greed, or pass on all loot.",
     "InternalName": "quickloot",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/akbarssyam/QuickLoot",
     "Tags": [
-        "plugin",
-        "loot"
-    ]
+        "acchoo",
+        "quickloot"
+    ],
+    "DalamudApiLevel": 7,
+    "DownloadLinkInstall": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip",
+    "DownloadLinkTesting": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip"
 }
