@@ -1,7 +1,7 @@
 {
     "Author": "Acchoo",
     "Name": "QuickLoot",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
     "Punchline": "Dungeon Loot Made Lazy.",
     "Description": "Various commands to need, greed, or pass on all loot.",
     "InternalName": "QuickLoot",
