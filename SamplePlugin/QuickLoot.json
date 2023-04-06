@@ -10,7 +10,7 @@
         "acchoo",
         "quickloot"
     ],
-    "DalamudApiLevel": 7,
+    "DalamudApiLevel": 8,
     "DownloadLinkInstall": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip",
     "DownloadLinkTesting": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip",
     "DownloadLinkUpdate": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip"
