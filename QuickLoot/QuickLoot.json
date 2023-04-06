@@ -1,16 +1,23 @@
 {
     "Author": "Acchoo",
     "Name": "QuickLoot",
+    "AssemblyVersion": "1.0.0.1",
     "Punchline": "Dungeon Loot Made Lazy.",
     "Description": "Various commands to need, greed, or pass on all loot.",
-    "InternalName": "quickloot",
+    "InternalName": "QuickLoot",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/akbarssyam/QuickLoot",
+    "IconUrl": "https://raw.githubusercontent.com/akbarssyam/QuickLoot/master/Data/goat.png",
     "Tags": [
         "acchoo",
         "quickloot"
     ],
     "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip",
     "DownloadLinkTesting": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip",
     "DownloadLinkUpdate": "https://github.com/akbarssyam/MyDalamudPlugins/raw/master/plugins/QuickLoot/latest.zip"
